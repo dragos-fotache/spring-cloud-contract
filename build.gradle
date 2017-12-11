@@ -46,7 +46,7 @@ dependencies {
 }
 
 contracts {
-    baseClassForTests = 'com.test.springcloudcontract.MvcTest'
+    baseClassForTests = 'com.test.springcloudcontract.BaseTest'
 }
 
 

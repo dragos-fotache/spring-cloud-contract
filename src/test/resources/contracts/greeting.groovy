@@ -5,6 +5,6 @@ org.springframework.cloud.contract.spec.Contract.make {
   }
   response {
   	status 200
-  	body("Hello world!")
+  	body("Hello worlds!")
   }
 }
